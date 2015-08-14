@@ -1,0 +1,7 @@
+engines:
+  checkstyle:
+    enabled: true
+    config: 'config/checkstyle/checkstyle.xml'
+exclude_paths: [
+  "folder_to_exclude"
+]
