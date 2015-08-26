@@ -2,6 +2,8 @@ engines:
   checkstyle:
     enabled: true
     config: 'config/checkstyle/checkstyle.xml'
+  fixme:
+    enabled: true
 exclude_paths: [
     "config/",
     "folder_to_exclude/",
