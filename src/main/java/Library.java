@@ -13,4 +13,9 @@ public class Library {
 	public boolean someLibraryMethod() {
         return true;
     }
+
+        /** Single line java doc to check our checkstyle plugin **/
+  public boolean someLibraryMethod() {
+        return true;
+    }
 }
