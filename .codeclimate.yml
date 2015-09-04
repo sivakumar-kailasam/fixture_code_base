@@ -1,8 +1,6 @@
 engines:
   checkstyle:
     enabled: true
-  pmd:
-    enabled: true
 exclude_paths: [
     "config/",
     "folder_to_exclude/",
