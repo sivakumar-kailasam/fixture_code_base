@@ -9,13 +9,10 @@ import org.slf4j.Logger;
  * @author skailasam, @date 8/14/15 4:15 PM
  */
 public class Library {
-    /** Single line java doc to check our checkstyle plugin **/
+  // Single line java doc to check our checkstyle plugin
+  // Cool
+  // Cool
 	public boolean someLibraryMethod() {
-        return true;
-    }
-
-        /** Single line java doc to check our checkstyle plugin **/
-  public boolean someLibraryMethod() {
         return true;
     }
 }
