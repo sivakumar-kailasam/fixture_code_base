@@ -1,6 +1,6 @@
 engines:
   checkstyle:
-    enabled: true
+    enabled: false 
     config: 'config/checkstyle/checkstyle.xml'
   pmd:
     enabled: true
